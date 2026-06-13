@@ -12,7 +12,8 @@ Note: if you have files that you want then put it some where else if you dont wa
 
 4th. take ALL THE FILES then put it onto your sd card if it says to replace the files then click yes 
 
-5th. youre should be done
+5th. you open the modde menu once you open the zip file then you get the boot file the put onto your root of your sd card
+
 
 
 
