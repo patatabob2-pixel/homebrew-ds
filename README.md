@@ -17,4 +17,4 @@ Note: if you have files that you want then put it some where else if you dont wa
 
 
 # Downloading games 
-if you want to download games you search for the .nds file game then you go into the roms nds then pate it into there
+if you want to download games you search for the .nds file game then you go into the roms nds then paste it into there
